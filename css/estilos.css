@@ -1,7 +1,7 @@
 body
 {
-    background: #1e1f24;
-    color: rgb(73, 72, 72);
+    background: #181818;
+    color: rgb(167, 166, 166);
     text-align: center;
     font-family: "Arial";
     font-size: 16 px;
@@ -47,7 +47,7 @@ body
 #footer
 
 {
-    background: rgb(77, 77, 77);
+    background: rgb(60, 60, 60);
     color: white;
     text-align: center;
     padding: 8.5en;
