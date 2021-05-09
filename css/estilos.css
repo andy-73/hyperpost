@@ -1,7 +1,7 @@
 body
 {
-    background: #181818;
-    color: rgb(167, 166, 166);
+    background: #1e1f24;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     font-size: 16 px;
@@ -10,7 +10,7 @@ body
 }
 #cabecera
 {
-    background: rgb(55, 55, 131);
+    background: #37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -42,6 +42,11 @@ body
 #container h1
 {
    font-size: 20px; 
+}
+#post
+{
+    background: white;
+    padding: 1em;
 }
 
 #footer
